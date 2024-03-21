@@ -6,6 +6,8 @@ public class Test1 {
 
 		
 		System.out.println("Hello");
+
+		int a =10;
 		
 	}
 
